@@ -1,6 +1,8 @@
 # Tic-Tac-Toe-Java
 Five-in-a-row game implemented in Java. Has GUI that players can interact with. Has different AIs and Human player options to choose from.
 
+Only the code in /src/student is original. Other code is from CS 2110: OO Programming and Data Structures, Professors Mike George and David Gries, Fall 2016, Cornell University.
+
 ## Instruction on GUI main
 1. Run GUI main
 2. a window will be prompted where the user selects the two player's types respectively. Player1 uses the marker X, player2 uses the marker O. Click "Go" after the choice is made.
